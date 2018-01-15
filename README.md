@@ -19,3 +19,9 @@ Research: Proof of concept
 		- links
 		Raspberry pi 3
 		- raspberry pi controlled lights
+14/01 Raspberri pi
+        - installation
+        - python scripts + php posts
+        - IFTTT : gmail to led (on/off)
+15/01   - IFTTT : voice to led (turn led on/ turn led off)
+        - Smarthouse.pptx
