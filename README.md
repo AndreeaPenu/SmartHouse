@@ -25,3 +25,5 @@ Research: Proof of concept
         - IFTTT : gmail to led (on/off)
 15/01   - IFTTT : voice to led (turn led on/ turn led off)
         - Smarthouse.pptx
+        - Blynk
+        - Bluetooth
